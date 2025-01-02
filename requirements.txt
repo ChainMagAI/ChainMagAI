@@ -1,0 +1,15 @@
+# requirements.txt
+
+# AI Detection Libraries
+transformers==4.29.1  # Hugging Face transformers library for model inference
+
+# GitHub API Library
+PyGithub==1.56  # Python client for GitHub API
+
+# Twitter API Library
+tweepy==4.12.1  # Python wrapper for the Twitter API
+
+# Logging Library (Standard library, no need to install separately)
+# logging is part of Python's standard library
+
+# Any other libraries you might need can be added here
